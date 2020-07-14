@@ -1,5 +1,5 @@
 
-This is a project from the University of Crete Department of Computer Science.
+This is a project from the University of Crete Department of Computer Science, that was completed by me from start to finish.
 
 How to run client.py
 	python client.py -e end_servers.txt -r relay_nodes.txt
