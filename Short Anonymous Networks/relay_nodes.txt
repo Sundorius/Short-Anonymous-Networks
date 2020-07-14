@@ -1,7 +1,3 @@
-firiki, 147.52.19.11, 52000
-fraoula, 147.52.19.15, 53000
-mango, 147.52.19.55, 54000
-thanatos, 147.52.19.71, 55000
-myrtillo, 147.52.19.33, 56000
-haroupi, 147.52.19.41, 57000
-kerasi, 147.52.19.81, 58000
+alias for node, IP of node, port of node
+
+example: node1, 135.34.23.12, 5424
